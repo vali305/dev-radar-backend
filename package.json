@@ -5,6 +5,9 @@
   "scripts": {
     "dev": "nodemon -r dotenv/config ./src/index.js"
   },
+  "scripts": {
+    "start": "node your-script.js"
+  },
   "repository": "https://github.com/mgiatti/dev-radar-backend.git",
   "author": "mgiatti <mb.giatti@gmail.com>",
   "license": "MIT",
